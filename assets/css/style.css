@@ -1,0 +1,12 @@
+button {
+    background-color: gray;
+    margin: 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#btnAdd {
+    background-color: black;
+    color: white;
+    padding: 5px; 
+}
